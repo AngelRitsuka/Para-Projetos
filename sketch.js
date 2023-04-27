@@ -1,4 +1,10 @@
+/*
+Minha história:
 
+*barra de fome (energia)
+*
+
+*/ 
 
 
 
